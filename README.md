@@ -2,6 +2,8 @@
 
 🔭 I’m currently working on mi profile
 
+![mi_perfil](https://media.giphy.com/media/PvvSfSDFoAL5e/giphy.gif) 
+
 <!--
 **javinoto/javinoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
