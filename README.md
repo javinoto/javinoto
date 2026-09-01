@@ -12,7 +12,7 @@ from complex transformation layers to scalable, observable production pipelines.
 
 <br>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/javiernoto">
   <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <img src="https://img.shields.io/badge/DATA-ENGINEER-2F81F7?style=for-the-badge" />
@@ -122,7 +122,7 @@ It's figuring out **what changed in the system to move it**.
 
 For the professional timeline, projects and experience:
 
-**[LinkedIn →](YOUR_LINKEDIN_URL)**
+**[LinkedIn →](https://www.linkedin.com/in/javiernoto)**
 
 📍 Bolivia · Working globally
 
