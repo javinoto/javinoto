@@ -89,15 +89,15 @@ reliable enough for production.
 
 ---
 
-## 📈 Production snapshot
+## 📈 Production Impact
 
-|            |                                                  |
-| ---------- | ------------------------------------------------ |
-| **100+**   | production dbt models delivered                  |
-| **~35%**   | query latency improvement through optimization   |
-| **~70%**   | manual database reliability checks automated     |
-| **50+**    | Airflow / data workloads supported through CI/CD |
-| **>99.8%** | release SLA across production workflows          |
+| Metric | Engineering Impact |
+|:---:|---|
+| **100+** | Production dbt models delivered |
+| **~35%** | Query latency improvement through optimization |
+| **~70%** | Manual database reliability checks automated |
+| **50+** | Airflow / data workloads supported through CI/CD |
+| **>99.8%** | Release SLA across production workflows |         |
 
 The interesting part isn't the number itself.
 
